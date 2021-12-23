@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ruvamd
 - 👀 I’m interested in Python,Django,AWS:Architect,SysOps,Networking.Network development
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any projects related my skills
 - 📫 How to reach me https://www.linkedin.com/in/vadim-rusu/
 
 <!---
